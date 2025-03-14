@@ -12,5 +12,5 @@ st.sidebar.write('Home')
 
 
 
-im = Image.open('Dell_logo.svg.png')
+im = Image.open('Dell_Logo.svg.png')
 st.image(im, width=300)
